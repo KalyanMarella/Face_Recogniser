@@ -1,5 +1,5 @@
 # Face Recognition Web App
-- This project demonstrates a face recognition system trained to identify three famous Indian actors: Chiranjeevi, Rajinikanth,Modi and Nagarjuna. The project leverages several tools and technologies to create an 
+- This project demonstrates a face recognition system trained to identify three famous Indian actors: Chiranjeevi, Rajinikanth,Nagarjuna. The project leverages several tools and technologies to create an 
    efficient and user-friendly web application.
 
 #### Key Features
