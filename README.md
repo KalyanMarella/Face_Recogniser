@@ -20,8 +20,11 @@
 Predictions
 Here are some examples of how the model predicts images:
 
-
-
+Here it is the model performance
+![Alt text](chiranjeevi_1.jpg)
+![Alt text](chiranjeevi_predicted.png)
+![Alt text](nagarjuna_test_12avif.jpg)
+![Alt text](nagarjuna_predicted.png)
 #### Limitations
 - The current model can only recognize three actors: Chiranjeevi, Rajinikanth, and Nagarjuna.
 - The accuracy of the model is dependent on the quality and quantity of the training dataset.
