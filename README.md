@@ -18,7 +18,7 @@
 - Image Processing: OpenCV is employed for preprocessing images, including resizing and normalization.
 - Web Integration: The trained model is served through a Flask web application, allowing users to upload images and receive predictions on whether the faces in the images belong to any of the three actors.
 Predictions
-Here are some examples of how the model predicts images:
+#### Here are some examples of how the model predicts images:
 
 ![Alt text](sample-output.png)
 
